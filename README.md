@@ -4,7 +4,7 @@ Sets up a container based on [walm/java](https://github.com/walm/docker-java)
 
 ## Includes
 
-  * Logstash 1.4.1
+  * Logstash 1.4.2
 
 ## Usage
 
